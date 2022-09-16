@@ -14,7 +14,7 @@ Application wich consume an input with Bowling Score result an print it by conso
 ### Build & Usage ###
 
 * Clone JavaChalleng to in/your/path:
-		**git clone https://github.com/Dulcire/bowling-score**
+		**git clone https://github.com/Dulcire/bowling-score.git**
 * Go to your JavaChallege: 
 		**cd JavaChallenge**
 * execute: 
